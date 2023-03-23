@@ -10,4 +10,5 @@ ISEN IOT Project Cyber
 # Usage:
 
 ## Don't forget to change the folder where result pictures are written (end of pictureAnalysis.py) and were the upload script retrieve the picture to send to s3
-Download file and start s3upload.py
+Download file, unzip and start s3upload.py 
+To test if a picture is recognized by rekognition, you can use .... script this way : `python ........py <path to img to test here>`
